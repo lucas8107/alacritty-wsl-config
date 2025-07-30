@@ -1,0 +1,6 @@
+[font]
+normal = { family = "CaskaydiaCove Nerd Font Mono" }
+size = 14
+
+[terminal]
+shell = { program = "wsl", args = ["--cd", "~"]}
