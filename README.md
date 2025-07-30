@@ -1,0 +1,1 @@
+# alacritty-wsl-config
